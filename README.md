@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <img src="profile-banner.jpg" width="100%" title="Intro Card" alt="">
+</p>
 
-<!--
-**cindyryoo7/cindyryoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💁‍♀️ About Me:
+My name is Cindy (she/her/hers), and I am a highly organized software engineer skilled in the MERN stack and seeking a role in full stack web development! I am a creative problem solver who is curious about emerging technologies and passionate about inclusion and diversity.
 
-Here are some ideas to get you started:
+I primarily work in JavaScript and React on the frontend, and C#, Node, and SQL/noSQL databases on the backend. I’m a life-long learner who thrives in open, communicative team environments where we collaborate to engineer efficient solutions to real-world problems. In my free time, I like to bake sourdough, listen to EDM, and try new foods!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills:
+
+| Type | Technologies |
+| --- | --- |
+| Frontend | <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=000000"> <img src="https://img.shields.io/badge/-TypeScript-3078c6?style=flat&logo=typescript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-ReactNative-ffffff?style=flat&logo=react&logoColor=61dbfb"> <img src="https://img.shields.io/badge/-Redux-764bbc?style=flat&logo=redux&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-jQuery-ffffff?style=flat&logo=jquery&logoColor=1067ae"> <img src="https://img.shields.io/badge/-Webpack-8ed6fb?style=flat&logo=webpack&logoColor=1067ae"> <img src="https://img.shields.io/badge/-Babel-f8dc3e?style=flat&logo=babel&logoColor=1067ae">|
+| Backend | <img src="https://img.shields.io/badge/-CSharp-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-.NET-6e409d?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-PostgreSQL-32648c?style=flat&logo=postgresql&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=046089"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Redis-d22a1f?style=flat&logo=redis&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-f7ca3d?style=flat&logo=python&logoColor=366d9b"> <img src="https://img.shields.io/badge/-Hangfire-ffffff?style=flat&logo=hangfire&logoColor=366d9b"> |
+| Developer Tools | <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/-VisualStudio-815dbf?style=flat&logo=visual%20studio&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-f69500?style=flat&logo=amazon&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Docker-0a97e5?style=flat&logo=docker&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Mocha-896546?style=flat&logo=mocha&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Chai-9e4841?style=flat&logo=chai&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Artillery.io-000000?style=flat&logo=artillery&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-yarn-2c8ab5?style=flat&logo=yarn&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-npm-c43635?style=flat&logo=npm&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Jira-2580f7?style=flat&logo=jira&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Kanban-3C873A?style=flat&logo=kanban&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Agile-000000?style=flat&logo=agile&logoColor=FFFFFF"> |
+Current Learning | <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Angular-bd052d?style=flat&logo=angular&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Swift-e84f36?style=flat&logo=swift&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Kubernetes-3069dd?style=flat&logo=kubernetes&logoColor=FFFFFF"> |
+
+## 📈 Github Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cindyryoo7&show_icons=true&hide_border=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindyryoo7&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+
+## 💬 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cindy-ryoo/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cindyryoo7@gmail.com)](mailto:cindyryoo7@gmail.com)
